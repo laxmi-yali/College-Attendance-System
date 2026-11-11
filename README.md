@@ -1,4 +1,4 @@
-# College-Attendance-Management-System
+# College-Attendance-System
 
 ### 1. Problem Statement
 
