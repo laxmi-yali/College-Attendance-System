@@ -1,7 +1,5 @@
 # College-Attendance-Management-System
 
-# Mini Project: College Attendance Management System using Python
-
 ### 1. Problem Statement
 
 In colleges, maintaining student attendance manually takes time and effort. Teachers may find it difficult to manage student details and calculate attendance percentages.
